@@ -41,7 +41,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/LingoLicht.git
+   git clone https://github.com/M0hamed-Awad/LingoLicht.git
 
 2. Navigate into the project directory:
 
